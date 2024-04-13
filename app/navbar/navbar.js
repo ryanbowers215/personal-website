@@ -7,13 +7,11 @@ export default function NavBar() {
     return(
     <div className="navbar">
         
-        <div className = "left">
+        <div className = "right">
             <Link href="/home" className="link">
-            <span>Ryan Bowers</span>
+            <span>About Me</span>
             </Link>
-        </div>
 
-        <div className="right">
         <Link href="/projects" className="link">
             <span>Projects</span>
         </Link>

@@ -1,11 +1,13 @@
 import NavBar from "../navbar/navbar";
 import AboutMe from "../about-me/aboutme";
+import Layout from "../layout/layout";
 
 export default function Home() {
   return (
     <div style={{overflow: "scroll"}}>
-      <NavBar />
+      <Layout>
       <AboutMe />
+      </Layout>
     </div>
   );
 }

@@ -29,7 +29,7 @@ function Courses() {
                             <h3>{course.code}</h3>
                         </div>
                         <div className="courseName">
-                            <span>{course.name}</span>
+                            <h4>{course.name}</h4>
                         </div>
                         <div className="courseDesc">
                             <p>{course.desc}</p>
