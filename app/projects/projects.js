@@ -3,9 +3,9 @@ import "./projects.css"
 
 export default function Projects() {
     const projects = [
-        {name: "Paging", status: "Currently Under Development", desc: "A book-focused social media platform built with Next.js"},
-        {name: "Personal Website", status: "Work in Progress!", desc: "My personal website highlighting my coursework and projects."},
-        {name: "Akari", status: "Complete", desc: "A clone of the light-up puzzle game Akari built in JavaFX built for my final project in COMP 301."}
+        {key: 1, name: "Paging", status: "Currently Under Development", desc: "A book-focused social media platform built with Next.js"},
+        {key: 2, name: "Personal Website", status: "Work in Progress!", desc: "My personal website highlighting my coursework and projects."},
+        {key: 3, name: "Akari", status: "Complete", desc: "A clone of the light-up puzzle game Akari built in JavaFX built for my final project in COMP 301."}
 
     ]
     return(

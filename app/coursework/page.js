@@ -4,7 +4,7 @@ import Courses from "./coursework";
 
 export default function Coursework() {
   return (
-    <div style={{overflow: "auto"}}>
+    <div style={{overflow: "hidden"}}>
       <Layout>
       <Courses />
       </Layout>
