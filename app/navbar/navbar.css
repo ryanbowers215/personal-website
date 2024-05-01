@@ -55,13 +55,13 @@
       sans-serif;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(164, 202, 225, 0.2);
+    background-color: #edf4fa;
     padding: 2%;
     margin: 0px;
     height: 70px;
     width: 98%;
     border-bottom: 3px solid #4b9cd3;
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 10;
 

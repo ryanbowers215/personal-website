@@ -10,12 +10,18 @@ export default function Projects() {
     },
     {
       key: 2,
+      name: "Twitter Clone",
+      status: "Complete",
+      desc: "A functioning web app where users can sign up, post, like, bookmark, and comment on tweets.",
+    },
+    {
+      key: 3,
       name: "Personal Website",
       status: "Work in Progress!",
       desc: "My personal website highlighting my coursework and projects.",
     },
     {
-      key: 3,
+      key: 4,
       name: "Akari",
       status: "Complete",
       desc: "A clone of the light-up puzzle game Akari built in JavaFX built for my final project in COMP 301.",
