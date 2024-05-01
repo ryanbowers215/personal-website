@@ -18,10 +18,11 @@ export default function AboutMe() {
 
     return(
         <div>
+            <h1>About Me</h1> 
             <div className="photos2">
                 <div><Image src={'/photos/me3.jpg'} alt={"me"} width={300} height={300} style={imageStyle}/></div>
             </div>
-           <h1>About Me</h1> 
+           
             <h4>My name is Ryan Bowers and I am a junior studying Computer Science and Statistics & Analytics at The University of North Carolina at Chapel Hill.
                 I am from Franklin, North Carolina and graduated as Valedictorian of Franklin High School in 2021.
             </h4>
