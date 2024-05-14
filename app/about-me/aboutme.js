@@ -1,6 +1,6 @@
 import "./aboutme.css";
 import "../../public/photos/me3.jpg";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 export default function AboutMe() {
   const imageStyle = {
