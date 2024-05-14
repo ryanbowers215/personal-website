@@ -10,6 +10,30 @@ function Courses() {
       desc: "This pilot course introduces software engineering best practices in the context of full-stack web development with a high emphasis on team collaboration. The course is modeled after an internship and teams of four ultimately aim to produce production-quality features for a community application",
     },
     {
+      key: 16,
+      code: "COMP 433",
+      name: "Mobile Computing Systems",
+      desc: "Principles of mobile applications, mobile OS, mobile networks, and embedded sensor systems. Coursework includes programming assignments, reading from recent research literature, and a semester long project on a mobile computing platform (e.g., Android, Arduino, iOS, etc.).",
+    },
+    {
+      key: 17,
+      code: "COMP 455",
+      name: "Models of Languages and Computation",
+      desc: "Introduction to the theory of computation. Finite automata, regular languages, pushdown automata, context-free languages, and Turing machines. Undecidable problems.",
+    },
+    {
+      key: 15,
+      code: "COMP 550",
+      name: "Algorithms and Analysis",
+      desc: "Formal specification and verification of programs. Techniques of algorithm analysis. Problem-solving paradigms. Survey of selected algorithms.",
+    },
+    {
+      key: 18,
+      code: "STOR 565",
+      name: "Machine Learning",
+      desc: "Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.",
+    },
+    {
       key: 2,
       code: "COMP 311",
       name: "Computer Organization",
@@ -74,6 +98,18 @@ function Courses() {
       code: "MATH 381",
       name: "Discrete Mathematics",
       desc: "This course serves as a transition from computational to more theoretical mathematics. Topics are from the foundations of mathematics: logic, set theory, relations and functions, induction, permutations and combinations, recurrence.",
+    },
+    {
+      key: 13,
+      code: "PHIL 143",
+      name: "AI and the Future of Humanity: Philosophical Issues about Technology and Human Survival",
+      desc: "This course investigates philosophical issues arising from advanced forms of technology, in particular artificial intelligence, virtual reality, and biological augmentation. We will consider questions about the dangers and benefits of AI, survival in non-biological ways, moral constraints on AI, the relationship between human and machine morality, and others.",
+    },
+    {
+      key: 14,
+      code: "STOR 445",
+      name: "Stochastic Modeling",
+      desc: "Introduction to Markov chains, Poisson process, continuous-time Markov chains, renewal theory. Applications to queueing systems, inventory, and reliability, with emphasis on systems modeling, design, and control.",
     },
   ];
 

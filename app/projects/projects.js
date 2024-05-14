@@ -12,7 +12,7 @@ export default function Projects() {
       key: 2,
       name: "Twitter Clone",
       status: "Complete",
-      desc: "A functioning web app where users can sign up, post, like, bookmark, and comment on tweets.",
+      desc: "A functioning web app where users can sign up, post, like, bookmark, and comment on tweets. Created as the final project for the Spring 2024 CS+SG Education Team.",
     },
     {
       key: 3,
