@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";

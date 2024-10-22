@@ -1,4 +1,4 @@
-import NavBar from "./navbar/navbar.js"
+"use client";
 import Home from "./home/page.js";
 
 export default function App() {

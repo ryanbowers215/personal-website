@@ -1,3 +1,4 @@
+"use client";
 import Layout from "../layout/layout";
 import Projects from "./projects";
 

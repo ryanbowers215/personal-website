@@ -1,7 +1,7 @@
 "use client";
 import "./coursework.css";
 
-function Courses() {
+const Courses = () => {
   const courses = [
     {
       key: 1,
@@ -134,6 +134,6 @@ function Courses() {
       </div>
     </div>
   );
-}
+};
 
 export default Courses;
