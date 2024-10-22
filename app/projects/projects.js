@@ -25,7 +25,7 @@ export default function Projects() {
       key: 4,
       name: "Akari",
       status: "Complete",
-      desc: "A clone of the light-up puzzle game Akari built in JavaFX built for my final project in COMP 301.",
+      desc: "A clone of the light-up puzzle game Akari built in JavaFX for my final project in COMP 301.",
     },
   ];
   return (
