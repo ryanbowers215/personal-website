@@ -64,6 +64,12 @@ const Courses = () => {
       desc: "Introduces students to programming and data science from a computational perspective. With an emphasis on modern applications in society, students gain experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing. No prior programming experience expected. Foundational concepts include data types, sequences, boolean logic, control flow, functions/methods, recursion, classes/objects, input/output, data organization, transformations, and visualizations.",
     },
     {
+      key: 14,
+      code: "STOR 455",
+      name: "Methods of Data Analysis",
+      desc: "Review of basic inference; two-sample comparisons; correlation; introduction to matrices; simple and multiple regression (including significance tests, diagnostics, variable selection); analysis of variance; use of statistical software.",
+    },
+    {
       key: 7,
       code: "STOR 435",
       name: "Introduction to Probability",
@@ -104,12 +110,6 @@ const Courses = () => {
       code: "PHIL 143",
       name: "AI and the Future of Humanity: Philosophical Issues about Technology and Human Survival",
       desc: "This course investigates philosophical issues arising from advanced forms of technology, in particular artificial intelligence, virtual reality, and biological augmentation. We will consider questions about the dangers and benefits of AI, survival in non-biological ways, moral constraints on AI, the relationship between human and machine morality, and others.",
-    },
-    {
-      key: 14,
-      code: "STOR 445",
-      name: "Stochastic Modeling",
-      desc: "Introduction to Markov chains, Poisson process, continuous-time Markov chains, renewal theory. Applications to queueing systems, inventory, and reliability, with emphasis on systems modeling, design, and control.",
     },
   ];
 
