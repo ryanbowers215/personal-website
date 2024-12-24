@@ -5,7 +5,7 @@ const Courses = () => {
   const courses = [
     {
       key: 20,
-      code: "COMP 524",
+      code: "COMP 523",
       name: "Software Engineering Laboratory",
       desc: "Organization and scheduling of software engineering projects, structured programming, and design. Each team designs, codes, and debugs program components and synthesizes them into a tested, documented program product.",
     },
