@@ -4,6 +4,18 @@ import "./coursework.css";
 const Courses = () => {
   const courses = [
     {
+      key: 20,
+      code: "COMP 524",
+      name: "Software Engineering Laboratory",
+      desc: "Organization and scheduling of software engineering projects, structured programming, and design. Each team designs, codes, and debugs program components and synthesizes them into a tested, documented program product.",
+    },
+    {
+      key: 19,
+      code: "COMP 560",
+      name: "Artificial Intelligence",
+      desc: "Introduction to techniques and applications of modern artificial intelligence. Combinatorial search, probabilistic models and reasoning, and applications to natural language understanding, robotics, and computer vision.",
+    },
+    {
       key: 1,
       code: "COMP 590-140",
       name: "Foundations of Software Engineering",
@@ -34,6 +46,12 @@ const Courses = () => {
       desc: "Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.",
     },
     {
+      key: 20,
+      code: "COMP 421",
+      name: "Files and Databases",
+      desc: "Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design.",
+    },
+    {
       key: 2,
       code: "COMP 311",
       name: "Computer Organization",
@@ -62,6 +80,12 @@ const Courses = () => {
       code: "COMP 110",
       name: "Introduction to Programming",
       desc: "Introduces students to programming and data science from a computational perspective. With an emphasis on modern applications in society, students gain experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing. No prior programming experience expected. Foundational concepts include data types, sequences, boolean logic, control flow, functions/methods, recursion, classes/objects, input/output, data organization, transformations, and visualizations.",
+    },
+    {
+      key: 21,
+      code: "STOR 445",
+      name: "Stochastic Modeling",
+      desc: "Introduction to Markov chains, Poisson process, continuous-time Markov chains, renewal theory. Applications to queueing systems, inventory, and reliability, with emphasis on systems modeling, design, and control.",
     },
     {
       key: 14,
